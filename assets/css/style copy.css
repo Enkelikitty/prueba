@@ -1,0 +1,15 @@
+
+body {
+  font-family: "Open Sans";
+  color: white;
+  background-color: rgb(220, 97, 40);
+}
+#eventos {
+  text-align: center;
+}
+#tarjetas {
+  text-align: center;
+}
+.card {
+  text-align: center;
+}
